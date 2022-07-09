@@ -1,0 +1,81 @@
+body{
+    margin:0px;
+    text-align:center;
+    font-family:Garamond, Geneva, Tahoma, sans-serif;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin:0px;
+    font-size: 70px;
+    color: #066163;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.pro{
+    text-decoration: underline;
+}
+.top_container{
+position:relative;
+background-color:#E8E8E8;
+transition: background-color 300ms;
+border-style:solid ;
+border:20px;
+border-color: black;
+margin: 0px;
+padding-top: 100px;
+}
+.top_cloud{
+    background-color: #B9F8D3;
+    position: absolute;
+    right:300px;
+    top:70px;
+}
+.bottom_cloud{
+    background-color: #B9F8D3;
+    position: absolute;
+    left: 300px;
+    bottom:310px;
+}
+.para{
+    color: #066163;
+    font-size: 40px;
+
+}
+.profile{
+padding-top: 20px;
+padding-bottom: 40px;
+}
+.middle_container{
+background-color: #F0F0F0;
+}
+.bottom-container{
+background-color: #E8E8E8;
+margin-top:10px;
+padding-top:10px;
+padding-bottom:3px;
+}
+.H_skills{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.s{
+    padding-top: 20px;
+}
+.dotted_ray{
+border-style: none;
+border-top: dotted;
+width: 10%;
+border-width: 15px;
+padding-bottom: 20px;
+color:#B8F1B0;
+}
+.footer-link{
+    width: 100%;
+}
+
+
